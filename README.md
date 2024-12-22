@@ -16,6 +16,7 @@
 
    ```bash
    go mod tidy
+   cd ./calc_handler
 
 
 ---
