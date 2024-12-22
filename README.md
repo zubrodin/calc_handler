@@ -11,12 +11,12 @@
 
    ```bash
    git clone https://github.com/zubrodin/calc_handler
+   cd ./calc_handler
    
 3. Установите зависимости :
 
    ```bash
    go mod tidy
-   cd ./calc_handler
 
 
 ---
