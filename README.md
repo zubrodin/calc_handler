@@ -48,6 +48,7 @@ Calculator Service предоставляет REST API для выполнени
    // запуск оркестра
    go run ./cmd/calc_service/main.go
    // запуск агента
+   go run ./internal/agent/main.go
 
 2. Откройте ваш браузер или используйте инструмент, такой как curl или Postman, для тестирования API.
 ---
